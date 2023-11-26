@@ -1,2 +1,3 @@
-# Pendidikan-Online-untuk-Pengembangan-Keterampilan
-Platform Pendidikan Online untuk Pengembangan Keterampilan
+# Fakultas Ilmu Komputer
+Platform Informasi Fakultas Ilmu Komputer Universitas Klabat
+
